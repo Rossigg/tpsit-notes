@@ -5,34 +5,63 @@ theme: "PaperMod"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45 
+
+# analytics: 
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
 
 minify:
     disableXML: true
     minifyOutput: true
 
+params:     
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/therealgabryx/tpsit-notes"
+        - name: "website"
+          url: "https://www.buonarroti.tn.it/"
+
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "TPSIT Notes"
+    author: 5INB 2020/21 
+
+    defaultTheme: auto
+    # disableThemeToggle: true 
+
+    # reading time 
+    ShowReadingTime: true
+
+    # show table of contents 
+    ShowToc: false 
+
+    ShowBreadCrumbs: true
+
 languages:
     en:
         languageName: "English"
-        weight: 1
+        weight: 2
         menu:
             main:
-                - name: Archive 
-                  url: archives
-                  weight: 20
                 - name: Search
                   url: search/
-                  weight: 10
+                  weight: 40  
                 - name: Tags
                   url: tags/
+                  weight: 30
+                # - name: Categories
+                  # url: categories/
+                  # weight: 20
+                - name: Home 
+                  url: /
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
+        homeInfoParams:
+          Title: Hi there! 👋
+          Content: Welcome to the TPSIT Cheatsheets website, written with ❤️ by Class 5INB @ ITT Buonarroti Trento.
 
     it:
         languageName: "Italiano"
@@ -40,85 +69,33 @@ languages:
         
         menu:
             main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
+                - name: Cerca
+                  url: search/
+                  weight: 40  
                 - name: Tags
-                  url: tags
+                  url: tags/
+                  weight: 30
+                # - name: Categorie
+                  # url: categories/
+                  # weight: 20
+                - name: Home 
+                  url: /
                   weight: 10
-                - name: Categories
-                  url: categories
-                  weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#" 
+        homeInfoParams:
+            Title: Ciao! 👋
+            Content: Benvenuto nel sito degli Appunti di TPSIT, scritti con ❤️ dalla Classe 5INB @ ITT Buonarroti Trento.
 
 outputs:
     home:
-        - HTML
-        - RSS
-        - JSON
-
-params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
-    # author: ["Me", "You"] # multiple authors
-
-    defaultTheme: auto
-    # disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowToc: true
-    # comments: false
-    images: ["papermod-cover.png"]
-
-    profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
-        buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
-
-    homeInfoParams:
-        Title: "PaperMod"
-        Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-    socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: RsS
-          url: "index.xml"
+        - HTML 
+        - JSON 
+    
 
     # label:
     #     text: "Home"
     #     icon: icon.png
     #     iconHeight: 35
-
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+ 
 
     # assets:
     #     favicon: "<link / abs url>"
