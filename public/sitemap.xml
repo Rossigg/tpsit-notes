@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>en/sitemap.xml</loc>
+    
+      <lastmod>2021-02-15T21:43:46+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://example.org/</loc>
-  </url>
+  <sitemap>
+    <loc>it/sitemap.xml</loc>
+    
+      <lastmod>2021-02-15T21:43:46+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

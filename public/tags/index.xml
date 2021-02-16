@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on TPSIT Notes</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on TPSIT Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2021 21:43:46 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Requirements</title>
+      <link>/tags/software-requirements/</link>
+      <pubDate>Mon, 15 Feb 2021 21:43:46 +0100</pubDate>
+      
+      <guid>/tags/software-requirements/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
