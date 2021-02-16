@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG CPUStateDiagram.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.90382in" height="6.67796in"
+		viewBox="0 0 353.075 480.813" xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
+	<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st4 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st5 {font-size:1em}
+		.st6 {fill:#000000}
+		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {marker-end:url(#mrkr3-56);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st11 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st12 {font-size:1em;font-style:italic}
+		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend3">
+			<path d="M 2 1 L 0 0 L 2 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr3-56" class="st9" v:arrowType="3" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend3" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<g id="shape57-1" v:mID="57" v:groupContext="shape" transform="translate(194.063,-463.43)">
+			<title>Stato iniziale</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<ellipse cx="8.50394" cy="472.309" rx="8.50394" ry="8.50394" class="st1"/>
+		</g>
+		<g id="group58-3" transform="translate(164.804,-361.023)" v:mID="58" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Stato con comportamento interno</title>
+			<g id="shape58-4" v:mID="58" v:groupContext="groupContent">
+				<rect x="0" y="421.606" width="75.5275" height="59.2075" rx="8.50394" ry="8.50394" class="st2"/>
+			</g>
+			<g id="shape59-6" v:mID="59" v:groupContext="shape" transform="translate(0,-36.8038)">
+				<title>Foglio.59</title>
+				<desc>New</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="37.7637" cy="469.611" width="75.53" height="22.4037"/>
+				<path d="M8.5 480.81 L67.02 480.81 A8.50394 8.50394 -180 0 0 75.53 472.31 L75.53 466.91 A8.50394 8.50394 -180 0 0
+							 67.02 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.91 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="26.32" y="473.21" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>New</text>			</g>
+			<g id="shape60-9" v:mID="60" v:groupContext="shape">
+				<title>Foglio.60</title>
+				<desc>do / prepare for execution</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="37.7637" cy="462.411" width="75.53" height="36.8038"/>
+				<path d="M8.5 480.81 L67.02 480.81 A8.50394 8.50394 -180 0 0 75.53 472.31 L75.53 452.51 A8.50394 8.50394 -180 0 0
+							 67.02 444.01 L8.5 444.01 A8.50394 8.50394 -180 0 0 -0 452.51 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="7.08" y="458.81" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>do / prepare<v:newlineChar/><tspan
+							x="5.36" dy="1.2em" class="st5">for execution</tspan></text>			</g>
+		</g>
+		<g id="group61-13" transform="translate(157.843,-258.615)" v:mID="61" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Stato con comportamento interno.61</title>
+			<g id="shape61-14" v:mID="61" v:groupContext="groupContent">
+				<rect x="0" y="421.606" width="89.4494" height="59.2075" rx="8.50394" ry="8.50394" class="st2"/>
+			</g>
+			<g id="shape62-16" v:mID="62" v:groupContext="shape" transform="translate(0,-36.8038)">
+				<title>Foglio.62</title>
+				<desc>Ready</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="44.7247" cy="469.611" width="89.45" height="22.4037"/>
+				<path d="M8.5 480.81 L80.95 480.81 A8.50394 8.50394 -180 0 0 89.45 472.31 L89.45 466.91 A8.50394 8.50394 -180 0 0
+							 80.95 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 0 466.91 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="29.3" y="473.21" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Ready</text>			</g>
+			<g id="shape63-19" v:mID="63" v:groupContext="shape">
+				<title>Foglio.63</title>
+				<desc>do / wait for CPU assignment</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="44.7247" cy="462.411" width="89.45" height="36.8038"/>
+				<path d="M8.5 480.81 L80.95 480.81 A8.50394 8.50394 -180 0 0 89.45 472.31 L89.45 452.51 A8.50394 8.50394 -180 0 0
+							 80.95 444.01 L8.5 444.01 A8.50394 8.50394 -180 0 0 0 452.51 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="14.38" y="458.81" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>do / wait for<v:newlineChar/><tspan
+							x="5.36" dy="1.2em" class="st5">CPU assignment</tspan></text>			</g>
+		</g>
+		<g id="group64-23" transform="translate(167.134,-170.612)" v:mID="64" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Stato</title>
+			<g id="shape64-24" v:mID="64" v:groupContext="groupContent">
+				<rect x="0" y="436.01" width="70.8661" height="44.8037" rx="8.50394" ry="8.50394" class="st2"/>
+			</g>
+			<g id="shape65-26" v:mID="65" v:groupContext="shape" transform="translate(0,-22.4)">
+				<title>Foglio.65</title>
+				<desc>Running</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="469.611" width="70.87" height="22.4037"/>
+				<path d="M8.5 480.81 L62.36 480.81 A8.50394 8.50394 -180 0 0 70.87 472.31 L70.87 466.91 A8.50394 8.50394 -180 0 0
+							 62.36 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.91 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="14.86" y="473.21" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Running</text>			</g>
+			<g id="shape66-29" v:mID="66" v:groupContext="shape">
+				<title>Foglio.66</title>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
+				</v:userDefs>
+				<path d="M8.5 480.81 L62.36 480.81 A8.50394 8.50394 -180 0 0 70.87 472.31 L70.87 466.92 A8.50394 8.50394 -180 0 0
+							 62.36 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.92 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+			</g>
+		</g>
+		<g id="group67-31" transform="translate(53.0681,-82.6079)" v:mID="67" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Stato.67</title>
+			<g id="shape67-32" v:mID="67" v:groupContext="groupContent">
+				<rect x="0" y="436.01" width="70.8661" height="44.8037" rx="8.50394" ry="8.50394" class="st2"/>
+			</g>
+			<g id="shape68-34" v:mID="68" v:groupContext="shape" transform="translate(0,-22.4)">
+				<title>Foglio.68</title>
+				<desc>Blocked</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="469.611" width="70.87" height="22.4037"/>
+				<path d="M8.5 480.81 L62.36 480.81 A8.50394 8.50394 -180 0 0 70.87 472.31 L70.87 466.91 A8.50394 8.50394 -180 0 0
+							 62.36 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.91 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="15.74" y="473.21" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Blocked</text>			</g>
+			<g id="shape69-37" v:mID="69" v:groupContext="shape">
+				<title>Foglio.69</title>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
+				</v:userDefs>
+				<path d="M8.5 480.81 L62.36 480.81 A8.50394 8.50394 -180 0 0 70.87 472.31 L70.87 466.92 A8.50394 8.50394 -180 0 0
+							 62.36 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.92 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+			</g>
+		</g>
+		<g id="group70-39" transform="translate(281.2,-82.6079)" v:mID="70" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Stato.70</title>
+			<g id="shape70-40" v:mID="70" v:groupContext="groupContent">
+				<rect x="0" y="436.01" width="70.8661" height="44.8037" rx="8.50394" ry="8.50394" class="st2"/>
+			</g>
+			<g id="shape71-42" v:mID="71" v:groupContext="shape" transform="translate(0,-22.4)">
+				<title>Foglio.71</title>
+				<desc>Halted</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="469.611" width="70.87" height="22.4037"/>
+				<path d="M8.5 480.81 L62.36 480.81 A8.50394 8.50394 -180 0 0 70.87 472.31 L70.87 466.91 A8.50394 8.50394 -180 0 0
+							 62.36 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.91 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+				<text x="18.89" y="473.21" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Halted</text>			</g>
+			<g id="shape72-45" v:mID="72" v:groupContext="shape">
+				<title>Foglio.72</title>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
+				</v:userDefs>
+				<path d="M8.5 480.81 L62.36 480.81 A8.50394 8.50394 -180 0 0 70.87 472.31 L70.87 466.92 A8.50394 8.50394 -180 0 0
+							 62.36 458.41 L8.5 458.41 A8.50394 8.50394 -180 0 0 -0 466.92 L0 472.31 A8.50394 8.50394 -180 0 0 8.5
+							 480.81 Z" class="st2"/>
+			</g>
+		</g>
+		<g id="shape73-47" v:mID="73" v:groupContext="shape" transform="translate(308.13,-22.4)">
+			<title>Stato finale</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M15.31 472.31 A6.80315 6.80315 -180 1 0 1.7 472.31 A6.80315 6.80315 -180 1 0 15.31 472.31 Z" class="st6"/>
+			<path d="M17.01 472.31 A8.50394 8.50394 -180 1 0 -0 472.31 A8.50394 8.50394 -180 1 0 17.01 472.31" class="st7"/>
+			<path d="M15.31 472.31 A6.80315 6.80315 -180 1 0 1.7 472.31 A6.80315 6.80315 -180 1 0 15.31 472.31" class="st7"/>
+		</g>
+		<g id="shape74-51" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(193.567,-463.43)">
+			<title>Connettore dinamico</title>
+			<path d="M9 480.81 L9 524.01" class="st8"/>
+		</g>
+		<g id="shape77-57" v:mID="77" v:groupContext="shape" v:layerMember="0" transform="translate(193.567,-361.023)">
+			<title>Connettore dinamico.77</title>
+			<desc>[Ready for execution] / Advance to ready queue</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="9" cy="502.413" width="88.33" height="27.2035"/>
+			<path d="M9 480.81 L9 524.01" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-30.2575" y="492.814" width="78.5152" height="19.1997" class="st10"/>
+			<text x="-28.07" y="500.01" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>[Ready for <tspan
+						class="st12">execution</tspan>] /<v:newlineChar/><tspan x="-30.26" dy="1.2em" class="st5">Advance to </tspan><tspan
+						class="st12">ready queue</tspan></text>		</g>
+		<g id="shape78-67" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(193.567,-258.615)">
+			<title>Connettore dinamico.78</title>
+			<desc>CPU time allocated / Move to running queue</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="9" cy="502.413" width="85.92" height="27.2035"/>
+			<path d="M9 480.81 L9 524.01" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-29.0505" y="492.814" width="76.1012" height="19.1997" class="st10"/>
+			<text x="-24.44" y="500.01" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>CPU time <tspan
+						class="st12">allocated </tspan>/<v:newlineChar/><tspan x="-29.05" dy="1.2em" class="st5">Move to </tspan><tspan
+						class="st12">running queue</tspan></text>		</g>
+		<g id="shape79-77" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(238,-193.013)">
+			<title>Connettore dinamico.79</title>
+			<desc>Process finished or terminated / Remove from running queue</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="58.3059" cy="484.248" width="113.54" height="27.2035"/>
+			<path d="M0 480.81 L47.13 480.81 A31.5 31.5 0 0 1 78.63 512.31 L78.63 546.42" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="6.44309" y="474.648" width="103.726" height="19.1997" class="st10"/>
+			<text x="6.44" y="481.85" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Process <tspan
+						class="st12">finished </tspan>or <tspan class="st12">terminated </tspan>/<v:newlineChar/><tspan x="11.85"
+						dy="1.2em" class="st5">Remove from </tspan><tspan class="st12">running queue</tspan></text>		</g>
+		<g id="shape80-88" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(167.134,-193.013)">
+			<title>Connettore dinamico.80</title>
+			<desc>Resource unavailable / Move to clocked queue</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="-58.2758" cy="491.956" width="84.94" height="27.2035"/>
+			<path d="M0 480.81 L-47.13 480.81 A31.5 31.5 -180 0 0 -78.63 512.31 L-78.63 546.42" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-95.8379" y="482.356" width="75.1242" height="19.1997" class="st10"/>
+			<text x="-95.43" y="489.56" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Resource <tspan
+						class="st12">unavailable </tspan>/<v:newlineChar/><tspan x="-95.84" dy="1.2em" class="st5">Move to </tspan><tspan
+						class="st12">clocked queue</tspan></text>		</g>
+		<g id="shape81-98" v:mID="81" v:groupContext="shape" v:layerMember="0" transform="translate(53.0681,-105.01)">
+			<title>Connettore dinamico.81</title>
+			<desc>Resource freed / Move to ready queue</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="-13.5" cy="344.07" width="79.14" height="27.2035"/>
+			<path d="M0 480.81 L-6.75 480.81 A6.75 6.75 0 0 1 -13.5 474.06 L-13.5 329.1 A31.5 31.5 0 0 1 18 297.6 L104.77 297.6"
+					class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-48.1619" y="334.471" width="69.324" height="19.1997" class="st10"/>
+			<text x="-40.34" y="341.67" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Resource <tspan
+						class="st12">freed </tspan>/<v:newlineChar/><tspan x="-48.16" dy="1.2em" class="st5">Move to </tspan><tspan
+						class="st12">ready queue</tspan></text>		</g>
+		<g id="shape82-108" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(307.633,-82.6079)">
+			<title>Connettore dinamico.82</title>
+			<path d="M9 480.81 L9 524.01" class="st8"/>
+		</g>
+	</g>
+</svg>

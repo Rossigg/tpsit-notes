@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG State_complex.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.994669in" height="0.832743in"
+		viewBox="0 0 71.6161 59.9575" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st4 {font-size:1em}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="group47-1" transform="translate(0.375,-0.375)" v:mID="47" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Stato con comportamento interno</title>
+			<g id="shape47-2" v:mID="47" v:groupContext="groupContent">
+				<rect x="0" y="0.75" width="70.8661" height="59.2075" rx="8.50394" ry="8.50394" class="st1"/>
+			</g>
+			<g id="shape48-4" v:mID="48" v:groupContext="shape" transform="translate(0,-36.8038)">
+				<title>Foglio.48</title>
+				<desc>State</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Title)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="48.7557" width="70.87" height="22.4037"/>
+				<path d="M8.5 59.96 L62.36 59.96 A8.50394 8.50394 -180 0 0 70.87 51.45 L70.87 46.06 A8.50394 8.50394 -180 0 0 62.36
+							 37.55 L8.5 37.55 A8.50394 8.50394 -180 0 0 -0 46.06 L0 51.45 A8.50394 8.50394 -180 0 0 8.5 59.96 Z"
+						class="st1"/>
+				<text x="22.45" y="52.36" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>State</text>			</g>
+			<g id="shape49-7" v:mID="49" v:groupContext="shape">
+				<title>Foglio.49</title>
+				<desc>activities / methods</desc>
+				<v:userDefs>
+					<v:ud v:nameU="UmlRole" v:prompt="" v:val="VT4(Body)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="41.5556" width="70.87" height="36.8038"/>
+				<path d="M8.5 59.96 L62.36 59.96 A8.50394 8.50394 -180 0 0 70.87 51.45 L70.87 31.66 A8.50394 8.50394 -180 0 0 62.36
+							 23.15 L8.5 23.15 A8.50394 8.50394 -180 0 0 -0 31.66 L0 51.45 A8.50394 8.50394 -180 0 0 8.5 59.96 Z"
+						class="st1"/>
+				<text x="10.16" y="37.96" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>activities /<v:newlineChar/><tspan
+							x="13.83" dy="1.2em" class="st4">methods</tspan></text>			</g>
+		</g>
+	</g>
+</svg>

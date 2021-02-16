@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG FinalState.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.77813in" height="8.08404in"
+		viewBox="0 0 560.026 582.051" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="shape51-1" v:mID="51" v:groupContext="shape" transform="translate(0.375,-22.4)">
+			<title>Stato finale</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M503.35 302.41 A223.71 223.71 -180 1 0 55.93 302.41 A223.71 223.71 -180 1 0 503.35 302.41 Z" class="st1"/>
+			<path d="M559.28 302.41 A279.638 279.638 -180 1 0 0 302.41 A279.638 279.638 -180 1 0 559.28 302.41" class="st2"/>
+			<path d="M503.35 302.41 A223.71 223.71 -180 1 0 55.93 302.41 A223.71 223.71 -180 1 0 503.35 302.41" class="st2"/>
+		</g>
+	</g>
+</svg>
